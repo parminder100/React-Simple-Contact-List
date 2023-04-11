@@ -1,0 +1,23 @@
+.card-container{
+    width: 500px !important;
+    margin-top: 50px;
+}
+.contactcard-container{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 20px;
+    background-color: #00cbff;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #fff;
+}
+.contactcard-container button{
+    background-color: #0000ff;
+    border-color: #0000ff;
+    border-width: 0px;
+    padding: 5px 8px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 600;
+}
